@@ -46,7 +46,7 @@ automation:
 iOS 10 supports a subtitle in addition to the title:
 
 ```yaml
-automation
+automation:
   - alias: Notify iOS app
     trigger:
       ...
